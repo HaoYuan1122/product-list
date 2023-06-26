@@ -1,0 +1,10 @@
+.selectCategory p{
+    margin:0px
+}
+button{
+    margin-bottom:15px;
+}
+.selectCategory>div{
+    display:flex;
+    justify-content: space-around;
+}
